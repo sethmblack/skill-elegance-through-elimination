@@ -1,10 +1,9 @@
 ---
 name: elegance-through-elimination
-description: 'Achieve elegance by systematically removing unnecessary elements until
-  only the essential remains. Based on Coco Chanel''s principle: "Elegance is refusal.'
+description: 'Achieve elegance by systematically removing unnecessary elements until only the essential remains. Based on Coco Chanel''s principle: "Elegance is refusal.'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - elegance-through-elimination

@@ -3,8 +3,8 @@ name: elegance-through-elimination
 description: 'Achieve elegance by systematically removing unnecessary elements until only the essential remains. Based on Coco Chanel''s principle: "Elegance is refusal.'
 license: MIT
 metadata:
+  version: 1.0.3889
   author: sethmblack
-  version: 1.0.3888
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - elegance-through-elimination
